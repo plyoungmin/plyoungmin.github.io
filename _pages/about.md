@@ -19,8 +19,8 @@ Working Papers
 
 Publications
 ======
-1. [Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments](https://www.bankofcanada.ca/wp-content/uploads/2020/09/SWP-2020-36.pdf) (with Elizabeth Caucutt, Joseph Mullins, and Lance Lochner) ***Journal of Political Economy***, accepted.
-1. [Democratic Political Economy of Financial Regulation](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2022/wp22-01.pdf) (with Igor Livshits) ***International Economic Review***, accepted.
+1. [Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments](https://doi.org/10.1086/738480) (with Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal of Political Economy***, accepted.
+1. [Democratic Political Economy of Financial Regulation](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2022/wp22-01.pdf) (with Igor Livshits), ***International Economic Review***, accepted.
 1. [Earnings Dynamics and Intergenerational Transmission of Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance Lochner), ***Journal of Econometrics***, 243 (1–2): 105255 (2024).
 1. [Four Decades of Canadian Earnings Inequality and Dynamics across Workers and Firms](https://doi.org/10.3982/QE1846) (with Audra Bowlus, Émilien Gouin-Bonenfant, Huju Liu and Lance Lochner), ***Quantitative Economics***, 13: 1447–1491 (2022).
 1. [Correlation, Consumption, Confusion, or Constraints: Why Do Poor Children Perform so Poorly?]( https://doi.org/10.1111/sjoe.12195)
