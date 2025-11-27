@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[CV](/files/CV.pdf)
+[CV](/files/Park_CV.pdf)
 ======
 
 Working Papers
