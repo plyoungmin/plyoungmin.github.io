@@ -12,16 +12,38 @@ redirect_from:
 
 Working Papers
 ======
-1. [The Evolution of Unobserved Skill Returns in the U.S.: A New Approach Using Panel Data](https://www.bankofcanada.ca/wp-content/uploads/2017/12/swp2017-61.pdf) (with Lance Lochner and Youngki Shin), Revise and Resubmit, ***Review of Economic Studies***
+1. [The Evolution of Unobserved Skill Returns in the U.S.: A New Approach Using Panel Data](https://www.nber.org/system/files/working_papers/w33407/w33407.pdf) (with Lance Lochner and Youngki Shin), Revise and Resubmit, ***Review of Economic Studies***
 1. [The Heterogeneous Impacts of Job Displacement: Evidence from Canadian Job Separation Records
 ](https://www.bankofcanada.ca/wp-content/uploads/2023/10/swp2023-55.pdf) (with Serdar Birinci and Kurt See) [[Supplemental Appendix]](https://serdarbirinci.weebly.com/uploads/4/8/6/3/48631293/bps_sa_august2025.pdf)
 1. [Inequality in Parental Transfers and Optimal Need-Based Financial Aid](https://www.bankofcanada.ca/wp-content/uploads/2019/02/swp2019-7.pdf)
 
-Publications
+Refereed Publications
 ======
-1. [Child Skill Production: Accounting for Parental and Market-Based Time and Goods Investments](https://doi.org/10.1086/738480) (with Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal of Political Economy***, accepted.
-1. [Democratic Political Economy of Financial Regulation](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2022/wp22-01.pdf) (with Igor Livshits), ***International Economic Review***, accepted.
-1. [Earnings Dynamics and Intergenerational Transmission of Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance Lochner), ***Journal of Econometrics***, 243 (1–2): 105255 (2024).
-1. [Four Decades of Canadian Earnings Inequality and Dynamics across Workers and Firms](https://doi.org/10.3982/QE1846) (with Audra Bowlus, Émilien Gouin-Bonenfant, Huju Liu and Lance Lochner), ***Quantitative Economics***, 13: 1447–1491 (2022).
+1. [Child Skill Production: Accounting for Parental and Market-Based
+   Time and Goods Investments](https://doi.org/10.1086/738480) (with
+   Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
+   of Political Economy***, accepted. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
+1. [Democratic Political Economy of Financial
+   Regulation](https://doi.org/10.1111/iere.12781)
+   (with Igor Livshits), ***International Economic Review***,
+   accepted. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
+1. [Earnings Dynamics and Intergenerational Transmission of
+   Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance
+   Lochner), ***Journal of Econometrics***, 243 (1–2): 105255
+   (2024). [[Working Paper]](https://www.nber.org/system/files/working_papers/w28141/w28141.pdf)
+1. [Four Decades of Canadian Earnings Inequality and Dynamics across
+   Workers and Firms](https://doi.org/10.3982/QE1846) (with Audra
+   Bowlus, Émilien Gouin-Bonenfant, Huju Liu and Lance Lochner),
+   ***Quantitative Economics***, 13: 1447–1491 (2022). [[Working Paper]](https://www.nber.org/system/files/working_papers/w28757/w28757.pdf)
 1. [Correlation, Consumption, Confusion, or Constraints: Why Do Poor Children Perform so Poorly?]( https://doi.org/10.1111/sjoe.12195)
-(with Elizabeth Caucutt and Lance Lochner), ***Scandinavian Journal of Economics***, 119 (1): 102–147 (2017).
+(with Elizabeth Caucutt and Lance Lochner), ***Scandinavian Journal of
+Economics***, 119 (1): 102–147 (2017). [[Working Paper]](https://www.nber.org/system/files/working_papers/w21023/w21023.pdf)
+
+Selected Policy Work
+======
+1. [Contribution of Human Capital Accumulation to Canadian Economic
+   Growth](https://www.bankofcanada.ca/wp-content/uploads/2022/04/sdp2022-7.pdf)
+   (with Audra Bowlus and Chris Robinson) ***Bank of Canada Staff Discussion
+   Paper***
+1. [The Payoffs of Higher Education](https://www.bankofcanada.ca/2020/10/learning-and-earning) (with
+   Gabriela Galassi and Natalia Kyui) ***The Economy, Plain and Simple***
