@@ -22,11 +22,11 @@ Refereed Publications
 1. [Child Skill Production: Accounting for Parental and Market-Based
    Time and Goods Investments](https://doi.org/10.1086/738480) (with
    Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
-   of Political Economy***, accepted. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
+   of Political Economy***, forthcoming. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
 1. [Democratic Political Economy of Financial
    Regulation](https://doi.org/10.1111/iere.12781)
    (with Igor Livshits), ***International Economic Review***,
-   accepted. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
+   forthcoming. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
 1. [Earnings Dynamics and Intergenerational Transmission of
    Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance
    Lochner), ***Journal of Econometrics***, 243 (1–2): 105255
