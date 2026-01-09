@@ -19,25 +19,25 @@ Working Papers
 
 Refereed Publications
 ======
-1. [Child Skill Production: Accounting for Parental and Market-Based
-   Time and Goods Investments](https://doi.org/10.1086/738480) (with
-   Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
-   of Political Economy***, forthcoming. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
 1. [Democratic Political Economy of Financial
    Regulation](https://doi.org/10.1111/iere.12781)
    (with Igor Livshits), ***International Economic Review***,
    forthcoming. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
+1. [Child Skill Production: Accounting for Parental and Market-Based
+   Time and Goods Investments](https://doi.org/10.1086/738480) (with
+   Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
+   of Political Economy***, 134 (1):150–209. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
 1. [Earnings Dynamics and Intergenerational Transmission of
    Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance
-   Lochner), ***Journal of Econometrics***, 243 (1–2): 105255
+   Lochner), ***Journal of Econometrics***, 243 (1–2):105255
    (2024). [[Working Paper]](https://www.nber.org/system/files/working_papers/w28141/w28141.pdf)
 1. [Four Decades of Canadian Earnings Inequality and Dynamics across
    Workers and Firms](https://doi.org/10.3982/QE1846) (with Audra
    Bowlus, Émilien Gouin-Bonenfant, Huju Liu and Lance Lochner),
-   ***Quantitative Economics***, 13: 1447–1491 (2022). [[Working Paper]](https://www.nber.org/system/files/working_papers/w28757/w28757.pdf)
+   ***Quantitative Economics***, 13:1447–1491 (2022). [[Working Paper]](https://www.nber.org/system/files/working_papers/w28757/w28757.pdf)
 1. [Correlation, Consumption, Confusion, or Constraints: Why Do Poor Children Perform so Poorly?]( https://doi.org/10.1111/sjoe.12195)
 (with Elizabeth Caucutt and Lance Lochner), ***Scandinavian Journal of
-Economics***, 119 (1): 102–147 (2017). [[Working Paper]](https://www.nber.org/system/files/working_papers/w21023/w21023.pdf)
+Economics***, 119 (1):102–147 (2017). [[Working Paper]](https://www.nber.org/system/files/working_papers/w21023/w21023.pdf)
 
 Selected Policy Work
 ======
