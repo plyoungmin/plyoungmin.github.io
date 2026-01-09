@@ -26,7 +26,7 @@ Refereed Publications
 1. [Child Skill Production: Accounting for Parental and Market-Based
    Time and Goods Investments](https://doi.org/10.1086/738480) (with
    Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
-   of Political Economy***, 134 (1):150–209. [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
+   of Political Economy***, 134 (1):150–209 (2026). [[Working Paper]](https://www.nber.org/system/files/working_papers/w27838/w27838.pdf)
 1. [Earnings Dynamics and Intergenerational Transmission of
    Skill](https://doi.org/10.1016/j.jeconom.2021.12.009) (with Lance
    Lochner), ***Journal of Econometrics***, 243 (1–2):105255
