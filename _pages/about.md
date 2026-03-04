@@ -14,7 +14,10 @@ Working Papers
 ======
 1. [The Evolution of Unobserved Skill Returns in the U.S.: A New Approach Using Panel Data](https://www.nber.org/system/files/working_papers/w33407/w33407.pdf) (with Lance Lochner and Youngki Shin), Revise and Resubmit, ***Review of Economic Studies***
 1. [The Heterogeneous Impacts of Job Displacement: Evidence from Canadian Job Separation Records
-](https://www.bankofcanada.ca/wp-content/uploads/2023/10/swp2023-55.pdf) (with Serdar Birinci and Kurt See) [[Supplemental Appendix]](https://serdarbirinci.weebly.com/uploads/4/8/6/3/48631293/bps_sa_august2025.pdf)
+](https://www.bankofcanada.ca/wp-content/uploads/2023/10/swp2023-55.pdf)
+(with Serdar Birinci and Kurt See) [[Supplemental
+Appendix]](https://serdarbirinci.weebly.com/uploads/4/8/6/3/48631293/bps_sa_august2025.pdf)
+, Revise and Resubmit, ***Review of Economics and Statistics***
 1. [Inequality in Parental Transfers and Optimal Need-Based Financial Aid](https://www.bankofcanada.ca/wp-content/uploads/2019/02/swp2019-7.pdf)
 
 Refereed Publications
