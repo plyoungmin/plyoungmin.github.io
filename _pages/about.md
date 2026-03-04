@@ -24,7 +24,7 @@ Refereed Publications
 1. [Democratic Political Economy of Financial
    Regulation](https://doi.org/10.1111/iere.12781)
    (with Igor Livshits), ***International Economic Review***,
-   forthcoming. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
+   Forthcoming. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
 1. [Child Skill Production: Accounting for Parental and Market-Based
    Time and Goods Investments](https://doi.org/10.1086/738480) (with
    Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
@@ -46,6 +46,7 @@ Selected Policy Work
 1. [Contribution of Human Capital Accumulation to Canadian Economic
    Growth](https://www.bankofcanada.ca/wp-content/uploads/2022/04/sdp2022-7.pdf)
    (with Audra Bowlus and Chris Robinson) ***Bank of Canada Staff Discussion
-   Paper***
+   Paper*** 2022-7
 1. [The Payoffs of Higher Education](https://www.bankofcanada.ca/2020/10/learning-and-earning) (with
-   Gabriela Galassi and Natalia Kyui) ***The Economy, Plain and Simple***
+   Gabriela Galassi and Natalia Kyui) ***The Economy, Plain and
+   Simple***, October 7, 2020
