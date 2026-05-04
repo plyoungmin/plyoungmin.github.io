@@ -24,7 +24,7 @@ Refereed Publications
 1. [Democratic Political Economy of Financial
    Regulation](https://doi.org/10.1111/iere.12781)
    (with Igor Livshits), ***International Economic Review***,
-   Forthcoming. [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
+   67 (2):451–473 (2026). [[Working Paper]](https://doi.org/10.21799/frbp.wp.2022.01)
 1. [Child Skill Production: Accounting for Parental and Market-Based
    Time and Goods Investments](https://doi.org/10.1086/738480) (with
    Elizabeth Caucutt, Joseph Mullins, and Lance Lochner), ***Journal
